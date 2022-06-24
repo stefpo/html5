@@ -1,0 +1,360 @@
+func A(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("A", attr, children...)
+}
+func ABBR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("ABBR", attr, children...)
+}
+func ACRONYM(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("ACRONYM", attr, children...)
+}
+func ADDRESS(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("ADDRESS", attr, children...)
+}
+func APPLET(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("APPLET", attr, children...)
+}
+func AREA(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("AREA", attr, children...)
+}
+func ARTICLE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("ARTICLE", attr, children...)
+}
+func ASIDE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("ASIDE", attr, children...)
+}
+func AUDIO(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("AUDIO", attr, children...)
+}
+func B(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("B", attr, children...)
+}
+func BASE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BASE", attr, children...)
+}
+func BASEFONT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BASEFONT", attr, children...)
+}
+func BDI(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BDI", attr, children...)
+}
+func BDO(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BDO", attr, children...)
+}
+func BIG(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BIG", attr, children...)
+}
+func BLOCKQUOTE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BLOCKQUOTE", attr, children...)
+}
+func BODY(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BODY", attr, children...)
+}
+func BR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BR", attr, children...)
+}
+func BUTTON(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("BUTTON", attr, children...)
+}
+func CANVAS(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("CANVAS", attr, children...)
+}
+func CAPTION(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("CAPTION", attr, children...)
+}
+func CENTER(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("CENTER", attr, children...)
+}
+func CITE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("CITE", attr, children...)
+}
+func CODE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("CODE", attr, children...)
+}
+func COL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("COL", attr, children...)
+}
+func COLGROUP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("COLGROUP", attr, children...)
+}
+func DATALIST(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DATALIST", attr, children...)
+}
+func DD(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DD", attr, children...)
+}
+func DEL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DEL", attr, children...)
+}
+func DETAILS(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DETAILS", attr, children...)
+}
+func DFN(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DFN", attr, children...)
+}
+func DIR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DIR", attr, children...)
+}
+func DIV(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DIV", attr, children...)
+}
+func DL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DL", attr, children...)
+}
+func DT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("DT", attr, children...)
+}
+func EM(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("EM", attr, children...)
+}
+func EMBED(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("EMBED", attr, children...)
+}
+func FIELDSET(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FIELDSET", attr, children...)
+}
+func FIGCAPTION(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FIGCAPTION", attr, children...)
+}
+func FIGURE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FIGURE", attr, children...)
+}
+func FONT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FONT", attr, children...)
+}
+func FOOTER(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FOOTER", attr, children...)
+}
+func FORM(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FORM", attr, children...)
+}
+func FRAME(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FRAME", attr, children...)
+}
+func FRAMESET(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("FRAMESET", attr, children...)
+}
+func HEAD(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("HEAD", attr, children...)
+}
+func HEADER(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("HEADER", attr, children...)
+}
+func HGROUP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("HGROUP", attr, children...)
+}
+func H1(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H1", attr, children...)
+}
+func H2(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H2", attr, children...)
+}
+func H3(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H3", attr, children...)
+}
+func H4(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H4", attr, children...)
+}
+func H5(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H5", attr, children...)
+}
+func H6(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("H6", attr, children...)
+}
+func HR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("HR", attr, children...)
+}
+func HTML(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("HTML", attr, children...)
+}
+func I(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("I", attr, children...)
+}
+func IFRAME(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("IFRAME", attr, children...)
+}
+func IMG(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("IMG", attr, children...)
+}
+func INPUT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("INPUT", attr, children...)
+}
+func INS(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("INS", attr, children...)
+}
+func KBD(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("KBD", attr, children...)
+}
+func KEYGEN(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("KEYGEN", attr, children...)
+}
+func LABEL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("LABEL", attr, children...)
+}
+func LEGEND(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("LEGEND", attr, children...)
+}
+func LI(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("LI", attr, children...)
+}
+func LINK(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("LINK", attr, children...)
+}
+func MAP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("MAP", attr, children...)
+}
+func MARK(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("MARK", attr, children...)
+}
+func MENUITEM(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("MENUITEM", attr, children...)
+}
+func MENU(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("MENU", attr, children...)
+}
+func META(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("META", attr, children...)
+}
+func METER(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("METER", attr, children...)
+}
+func NAV(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("NAV", attr, children...)
+}
+func NOFRAMES(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("NOFRAMES", attr, children...)
+}
+func NOSCRIPT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("NOSCRIPT", attr, children...)
+}
+func OBJECT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("OBJECT", attr, children...)
+}
+func OL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("OL", attr, children...)
+}
+func OPTGROUP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("OPTGROUP", attr, children...)
+}
+func OPTION(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("OPTION", attr, children...)
+}
+func OUTPUT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("OUTPUT", attr, children...)
+}
+func P(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("P", attr, children...)
+}
+func PARAM(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("PARAM", attr, children...)
+}
+func PRE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("PRE", attr, children...)
+}
+func PROGRESS(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("PROGRESS", attr, children...)
+}
+func Q(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("Q", attr, children...)
+}
+func RP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("RP", attr, children...)
+}
+func RT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("RT", attr, children...)
+}
+func RUBY(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("RUBY", attr, children...)
+}
+func S(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("S", attr, children...)
+}
+func SAMP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SAMP", attr, children...)
+}
+func SCRIPT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SCRIPT", attr, children...)
+}
+func SECTION(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SECTION", attr, children...)
+}
+func SELECT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SELECT", attr, children...)
+}
+func SMALL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SMALL", attr, children...)
+}
+func SOURCE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SOURCE", attr, children...)
+}
+func SPAN(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SPAN", attr, children...)
+}
+func STRIKE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("STRIKE", attr, children...)
+}
+func STRONG(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("STRONG", attr, children...)
+}
+func STYLE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("STYLE", attr, children...)
+}
+func SUB(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SUB", attr, children...)
+}
+func SUMMARY(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SUMMARY", attr, children...)
+}
+func SUP(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("SUP", attr, children...)
+}
+func TABLE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TABLE", attr, children...)
+}
+func TBODY(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TBODY", attr, children...)
+}
+func TD(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TD", attr, children...)
+}
+func TEXTAREA(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TEXTAREA", attr, children...)
+}
+func TFOOT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TFOOT", attr, children...)
+}
+func TH(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TH", attr, children...)
+}
+func THEAD(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("THEAD", attr, children...)
+}
+func TIME(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TIME", attr, children...)
+}
+func TITLE(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TITLE", attr, children...)
+}
+func TR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TR", attr, children...)
+}
+func TRACK(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TRACK", attr, children...)
+}
+func TT(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("TT", attr, children...)
+}
+func U(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("U", attr, children...)
+}
+func UL(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("UL", attr, children...)
+}
+func VAR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("VAR", attr, children...)
+}
+func VIDEO(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("VIDEO", attr, children...)
+}
+func WBR(attr interface{}, children ...interface{}) *HTMLElement {
+   return E("WBR", attr, children...)
+}
